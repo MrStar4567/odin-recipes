@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 500px;
+    margin: auto;
+}
+
+
+
+h1{
+    width: fit-content;
+    margin: 10px auto;
+    font-family: Verdana, sans-serif;
+}
+
+h2{
+    margin: 10px;
+    font-family: Verdana, sans-serif;
+    color: blue;
+    font-style: italic;
+}
+
+a{
+    display: block;
+    width: 100px;
+    margin: 10px auto;
+    border: 2px solid black;
+    padding: 10px;
+    color: black;
+    font-family: Verdana, sans-serif;
+}
+
+img{
+    width: 100%;
+}
+
+ul, ol{
+    padding: 10px;
+    background-color: grey;
+}
+
+li{
+    font-family: Verdana, sans-serif;
+}
